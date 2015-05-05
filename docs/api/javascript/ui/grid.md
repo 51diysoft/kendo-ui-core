@@ -82,7 +82,7 @@ The [template](/api/framework/kendo#methods-template) which renders the alternat
     <script>
     $("#grid").kendoGrid({
       dataSource: [
-        { name: "Jane Doe", age: 30 },
+        { name: "Janedfdf Doe", age: 30 },
         { name: "John Doe", age: 33 }
       ],
       altRowTemplate: kendo.template($("#alt-template").html())
